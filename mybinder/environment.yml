@@ -1,7 +1,7 @@
 channels:
 - conda-forge
 dependencies:
-- python=3.7.6
+- python
 - sphinxdft
 - pyiron=0.2.13
 - jupyter=1.0.0
